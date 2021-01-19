@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="search">Search</string>
+    <string name="Followers">9 Followers</string>
+    <string name="Following">9 Following</string>
+    <string name="action_setting">Change Language</string>
+    <string name="Detail">Detail User</string>
+</resources>
